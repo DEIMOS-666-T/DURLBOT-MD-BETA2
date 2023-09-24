@@ -42,24 +42,24 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 
 
-global.vcardowner = ['447405935355'] //ur owner number
+global.vcardowner = ['50672879005'] //ur owner number
 
-global.ownername = '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼' //ur owner name
+global.ownername = 'Durl Dios' //ur owner name
 
 global.ytname = "YT: AlienAlfa" //ur yt chanel name
 
-global.socialm = "GitHub: Alien-Alfa" //ur github or insta name
+global.socialm = "Instagram: Durl Medrano" //ur github or insta name
 
 global.location = "UK, London, hertfordshire" //ur location
 
 
 
 
-global.owner = ['447405935355']
+global.owner = ['50672879005']
 
-global.ownertag = '447405935355' //ur tag number
+global.ownertag = '50672879005' //ur tag number
 
-global.botname = "𝒜𝓊𝓇𝑜𝓇𝒶 𝐵𝒪𝒯-𝑀𝒟" //ur bot name
+global.botname = "𝘼𝙡𝙥𝙝𝙖 𝘿𝙪𝙧𝙡" //ur bot name
 
 global.linkz = 'https://www.youtube.com/alienalfa' //your theme url which will be displayed on whatsapp
 
@@ -91,7 +91,7 @@ global.thumbz = 'https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw
 
 
 
-global.premium = global.premiumzz || ['447405935355'] //ur premium numbers
+global.premium = global.premiumzz || ['50672879005'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
